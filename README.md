@@ -1,6 +1,6 @@
 # Olá, eu sou Higor 👋
 
-Bem-vindo ao meu GitHub! Aqui compartilho projetos de programação e automações para hotéis e bares.  
+Bem-vindo ao meu GitHub! Aqui compartilho projetos de programação e automações.  
 
 ![GIF de boas-vindas](https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif)
 
